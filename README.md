@@ -3,7 +3,7 @@
 # Práctica 0: Modelo del sistema respiratorio
 
 ## Infromación del estudiante
-Diego S. Lopez; L22211759@tectijuana.edu.mx
+Diego S. Lopez [22211759]; L22211759@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
